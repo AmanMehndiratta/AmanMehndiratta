@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AmanMehndiratta
+- 👀 I’m interested in Java Development/GraphQL/AWS
+- 🌱 I’m currently learning DesignPatterns/ApolloFederation/Docker
+- 📫 How to reach me aman.m041292@gmail.com
